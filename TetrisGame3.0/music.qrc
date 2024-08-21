@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Inmysong.mp3</file>
+        <file>eliminate_sound.mp3</file>
+    </qresource>
+</RCC>

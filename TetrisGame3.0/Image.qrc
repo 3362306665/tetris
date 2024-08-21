@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>C:/Users/zheng/Pictures/Camera Roll/tetris.jpeg</file>
+        <file>C:/Users/zheng/Pictures/Camera Roll/tetris2.jpg</file>
+        <file>bcground.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>C:/Users/zheng/Pictures/Camera Roll/Russiajpeg.jpeg</file>
+        <file>C:/Users/zheng/Pictures/Camera Roll/tetirs3.png</file>
+        <file>C:/Users/zheng/Pictures/Camera Roll/button.jpeg</file>
+        <file>C:/Users/zheng/Pictures/Camera Roll/button2.jpeg</file>
+        <file>C:/Users/zheng/Pictures/Camera Roll/button3.jpeg</file>
+        <file>C:/Users/zheng/Pictures/Camera Roll/button4.jpeg</file>
+    </qresource>
+</RCC>
